@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace HandLoomStoreModels.Common
 {
-    class Class1
+  public class Base<T>
     {
+        public T CreatedOn
+        {
+            get;set;
+        }
+        public T ModifiedOn
+        {
+            get;
+            set;
+        }
     }
 }

@@ -1,0 +1,6 @@
+D:\GitPro\HandLoomStore\Console\HandLoom\Console\HandLoomStoreModels\obj\Debug\HandLoomStoreModels.csproj.AssemblyReference.cache
+D:\GitPro\HandLoomStore\Console\HandLoom\Console\HandLoomStoreModels\obj\Debug\HandLoomStoreModels.csproj.CoreCompileInputs.cache
+D:\GitPro\HandLoomStore\Console\HandLoom\Console\HandLoomStoreModels\bin\Debug\HandLoomStoreModels.dll
+D:\GitPro\HandLoomStore\Console\HandLoom\Console\HandLoomStoreModels\bin\Debug\HandLoomStoreModels.pdb
+D:\GitPro\HandLoomStore\Console\HandLoom\Console\HandLoomStoreModels\obj\Debug\HandLoomStoreModels.dll
+D:\GitPro\HandLoomStore\Console\HandLoom\Console\HandLoomStoreModels\obj\Debug\HandLoomStoreModels.pdb

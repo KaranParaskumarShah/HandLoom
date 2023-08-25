@@ -1,0 +1,9 @@
+D:\GitPro\HandLoomStore\Console\HandLoom\Console\HLS.DataAccess\obj\Debug\HLS.DataAccess.csproj.AssemblyReference.cache
+D:\GitPro\HandLoomStore\Console\HandLoom\Console\HLS.DataAccess\obj\Debug\HLS.DataAccess.csproj.CoreCompileInputs.cache
+D:\GitPro\HandLoomStore\Console\HandLoom\Console\HLS.DataAccess\bin\Debug\HLS.DataAccess.dll
+D:\GitPro\HandLoomStore\Console\HandLoom\Console\HLS.DataAccess\bin\Debug\HLS.DataAccess.pdb
+D:\GitPro\HandLoomStore\Console\HandLoom\Console\HLS.DataAccess\bin\Debug\HandLoomStoreModels.dll
+D:\GitPro\HandLoomStore\Console\HandLoom\Console\HLS.DataAccess\bin\Debug\HandLoomStoreModels.pdb
+D:\GitPro\HandLoomStore\Console\HandLoom\Console\HLS.DataAccess\obj\Debug\HLS.DataAccess.csproj.CopyComplete
+D:\GitPro\HandLoomStore\Console\HandLoom\Console\HLS.DataAccess\obj\Debug\HLS.DataAccess.dll
+D:\GitPro\HandLoomStore\Console\HandLoom\Console\HLS.DataAccess\obj\Debug\HLS.DataAccess.pdb

@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace HandLoomStoreModels
 {
-    public class Class1
+    public class ClientGenderModel
     {
+        public int GenderId { get; set; }
+        public string ClientGenderName { get; set; }
+
     }
 }
