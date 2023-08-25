@@ -8,5 +8,6 @@ namespace HLS.DataAccess
 {
     public class Class1
     {
+
     }
 }
