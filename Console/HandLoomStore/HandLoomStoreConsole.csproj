@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HLS.DataAccess\HLS.DataAccess.csproj">
+      <Project>{08e71778-75c0-4e76-ae19-c9f488bc4ea8}</Project>
+      <Name>HLS.DataAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
