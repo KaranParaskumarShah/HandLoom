@@ -8,3 +8,5 @@ D:\GitPro\HandLoomStore\Console\HandLoom\Console\HandLoomStore\bin\Debug\HLS.Dat
 D:\GitPro\HandLoomStore\Console\HandLoom\Console\HandLoomStore\obj\Debug\HandLoomStoreConsole.csproj.CopyComplete
 D:\GitPro\HandLoomStore\Console\HandLoom\Console\HandLoomStore\obj\Debug\HandLoomStore.exe
 D:\GitPro\HandLoomStore\Console\HandLoom\Console\HandLoomStore\obj\Debug\HandLoomStore.pdb
+D:\GitPro\HandLoomStore\Console\HandLoom\Console\HandLoomStore\bin\Debug\HandLoomStoreModels.dll
+D:\GitPro\HandLoomStore\Console\HandLoom\Console\HandLoomStore\bin\Debug\HandLoomStoreModels.pdb

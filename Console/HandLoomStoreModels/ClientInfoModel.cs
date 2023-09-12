@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace HandLoomStoreModels
 {
-    public class ClientInfoModel<T>:Base<T>
+    public class ClientInfoModel:Base<DateTime,int>
     {
         public int ClientId { get; set; }
         public string ClientName { get; set; }
@@ -18,7 +18,7 @@ namespace HandLoomStoreModels
       
         public int ClientGenderId { get; set; }
         public int PaymentTypeId { get; set; }
-        public int OperationTypeId { get; set; }
+        //public int OperationTypeId { get; set; }
 
         
         

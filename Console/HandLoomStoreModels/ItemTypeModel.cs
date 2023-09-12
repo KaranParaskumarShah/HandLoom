@@ -1,4 +1,5 @@
-﻿using System;
+﻿using HandLoomStoreModels.Common;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace HandLoomStoreModels
 {
-   public class ItemTypeModel
+   public class ItemTypeModel:Base<DateTime,int>
     {
         public int ItemId { get; set; }
         public string ItemName { get; set; }

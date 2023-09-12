@@ -12,14 +12,14 @@ namespace HandLoomStoreConsole
         public static void Main(string[] args)
         {
             ModelDataInsert objInset = new ModelDataInsert();
-            objInset.InsertStoreProceClientInfo();
-            objInset.InsertStoreProGender();
-            objInset.InsertStoreProPayment();
-            objInset.InsertStoreProOperation();
-            objInset.InsertStoreProItemType();
-            objInset.InsertStoreProCategory();
-            objInset.InsertStoreProBill();
-
+            // objInset.InsertStoreProceClientInfo();
+            //objInset.InsertStoreProGender();
+            //objInset.InsertStoreProPayment();
+            //objInset.InsertStoreProOperation();
+            //objInset.InsertStoreProItemType();
+            //  objInset.InsertStoreProCategory();
+            // objInset.InsertStoreProBill();
+            objInset.InsertLogin();
 
             Console.ReadKey();
         }

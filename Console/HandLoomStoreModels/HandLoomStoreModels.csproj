@@ -43,9 +43,9 @@
   <ItemGroup>
     <Compile Include="CategoryModel.cs" />
     <Compile Include="BillModel.cs" />
+    <Compile Include="LoginModel.cs" />
     <Compile Include="PaymentType.cs" />
     <Compile Include="ItemTypeModel.cs" />
-    <Compile Include="OperationTypeModel.cs" />
     <Compile Include="ClientGenderModel.cs" />
     <Compile Include="ClientInfoModel.cs" />
     <Compile Include="Common\Base.cs" />

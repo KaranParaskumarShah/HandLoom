@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HandLoomStoreModels.Common
 {
-  public class Base<T>
+  public class Base<T,V>
     {
         public T CreatedOn
         {
@@ -17,5 +17,8 @@ namespace HandLoomStoreModels.Common
             get;
             set;
         }
+        public V OperationId { get; set; }
+        public string OperationName { get; set; }
+
     }
 }

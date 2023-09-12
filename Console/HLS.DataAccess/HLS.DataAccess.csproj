@@ -42,7 +42,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ModelDataInsert.cs" />
+    <Compile Include="CategoryDataAccess.cs" />
+    <Compile Include="BillDataAccess.cs" />
+    <Compile Include="ItemDataAccess.cs" />
+    <Compile Include="PaymentDataAccess.cs" />
+    <Compile Include="OperationDataAccess.cs" />
+    <Compile Include="GenderDataAccess.cs" />
+    <Compile Include="ClietnDataAccess.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
